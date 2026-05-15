@@ -117,6 +117,10 @@ The checklist is grounded on:
 - "No issues found" doesn't mean the code is secure — it means none of the patterns in the checklist matched
 - Some flagged items may be intentional in your context — always review before applying suggested fixes
 
+## Acknowledgments
+
+Some structural ideas (4-phase workflow, 12-question self-check, NoSQL/XSS coverage) were adapted from [vitormiziara/saas-security](https://github.com/vitormiziara/saas-security).
+
 ## License
 
 MIT
